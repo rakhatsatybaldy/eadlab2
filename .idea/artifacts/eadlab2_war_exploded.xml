@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="eadlab2:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/eadlab2_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="eadlab2" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="eadlab2/web/Web" />
+    </root>
+  </artifact>
+</component>
